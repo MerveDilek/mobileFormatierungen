@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29.04.2017, 17:34:47
+    Author     : thomas.schuster
+*/
+
+.ui-datagrid-content {
+    border: none !important;
+}
+
+.ui-datagrid {
+    border: none;
+}
+
+.text-output{
+    margin-left: 20px;
+    text-align: left;
+    vertical-align: middle !important;
+}
+
+.button-right{
+    margin-left: 20px;
+    float: right;
+    vertical-align: middle !important;
+}
+
+.button-center{
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+.graphic-output{
+    text-align: left;
+    vertical-align: middle !important;
+}
+
